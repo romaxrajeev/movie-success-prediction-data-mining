@@ -1,0 +1,356 @@
+0 S. Shankar
+1 G. Venugopal
+2 Tigmanshu Dhulia
+3 Akiv Ali
+4 Vijay Lalwani
+5 Aditya Dhar
+6 Rakeysh Omprakash Mehra
+7 Prosit Roy
+8 Vivek Agnihotri
+9 Amaan Khan
+10 Neeraj Pandey
+11 Anand Kumar
+12 Gopi Puthran
+13 Prabhuraj
+14 Manish Vatsalya
+15 Kanika Verma
+16 Satyajit Bhatkal
+17 Dhiraj Kumar
+18 Habib Faisal
+19 Prashant Singh
+20 Jennifer Lynch
+21 Soumik Sen
+22 Rajkumar Hirani
+23 Rajesh Mapuskar
+24 Prerna Wadhawan
+25 Naman Nitin Mukesh
+26 Sohail Tatari
+27 Manoj Tiwari
+28 Sanjay Puransingh Chauhan
+29 Vinnil Markan
+30 Ashish R. Mohan
+31 Shashant Shah
+32 Ahishor Solomon
+33 Indra Kumar
+34 Luke Kenny
+35 Mani Ratnam
+36 Shamin Desai
+37 Anthony D'Souza
+38 Samar Shaikh
+39 Vikramaditya Motwane
+40 David Dhawan
+41 Vidhu Vinod Chopra
+42 Darmesh Darshan
+43 Faraz Haider
+44 Anil Mehta
+45 Deepak Shivdasani
+46 Anurag Basu
+47 Vishesh Bhatt
+48 Prem Raj
+49 Sujoy Ghosh
+50 Rajiv S. Ruia
+51 Anees Bazmee
+52 Dibakar Banerjee
+53 Irfan Kamal
+54 Ashu Trikha
+55 Subhash Ghai
+56 Daniel Adams
+57 Kunal Kohli
+58 Saurabh Varma
+59 Shoojit Sircar
+60 Jagbir Dahiya
+61 Mangesh Hadawale
+62 Tabrez Noorani
+63 Raj Purohit
+64 Eeshwar Nivas
+65 Anurag Kashyap
+66 Masud Mirza
+67 Arnab Chaudhuri
+68 Pia Sukanya
+69 Aamir Khan
+70 Smeep Kang
+71 Nila Madhab Panda
+72 Nitin Kakkar
+73 Jeeva
+74 Rahul Dholakia
+75 Raj Kanwar
+76 Abbas Tyrewala
+77 Shilpi Dasgupta
+78 Vikramjit Singh
+79 A.R. Murugadoss
+80 Naresh Malhotra
+81 Raj Mehta
+82 Shakun Batra
+83 Vikram Bhatt
+84 Sudhish Kumar Sharma
+85 Sachin Yardi
+86 Bumpy
+87 Chakri Toleti
+88 Debamitra Biswal
+89 Hansal Mehta
+90 Pa. Ranjith
+91 Danish Aslam
+92 Jayesh Pradhan
+93 Anurag Singh
+94 Allyson Patel
+95 Chandan Arora
+96 Gautham Vasudev Menon
+97 Harshavardhan Kulkarni
+98 Sanjeev Reddy
+99 Prawaal Raman
+100 Punit Malhotra
+101 Mandeep Kumar
+102 Vijay Krishna Acharya
+103 Ajay Devgn
+104 Aditya Datt
+105 K.S. Ravikumar
+106 Umesh Shukla
+107 Ram Gopal Varma
+108 Arjun Sablok
+109 Shashanka Ghosh
+110 Remo D'Souza
+111 Jitendra Pawar
+112 A. L. Vijay
+113 Raj Kumar Gupta
+114 Nitin Raghunath
+115 Sharat Katariya
+116 Soham Shah
+117 Sanjay M. Khanduri
+118 Tarun Mansukhani
+119 Roshan Abbas
+120 Mary Kom
+121 Atul Agnihotri
+122 Jagan Shakti
+123 Vishal Bhardwaj
+124 Ritesh Batra
+125 Milind Ukey
+126 Mani Shankar
+127 Sangtth Sivan
+128 Nitesh Tiwari
+129 Bobby Khan
+130 Laxman Utekar
+131 Vishwaroopam
+132 Aleya Sen
+133 Abbas Alibhai Burmawalla
+134 Cherag Ruparel
+135 Radha Krishna Jagarlamudi
+136 Ravi Kumar
+137 Milap Zaveri
+138 Ayan Mukherjee
+139 Milkha Singh
+140 Farhan Akhtar
+141 Ram Madhvani
+142 Parmeet Sethi
+143 Shivam Nair
+144 Kiran Rao
+145 Nupur Asthana
+146 Zoya Akhtar
+147 Shashank Khaitan
+148 Sourabh Shrivastava
+149 Onir
+150 Rohit Shetty
+151 Tanushri Chattrji Bassu
+152 Pahlaj Nihalani
+153 Sajid Ali
+154 Jasmeet Dhodhi
+155 Sheershak Anand
+156 Siddique
+157 Neerav Ghosh
+158 Shirish Kunder
+159 Farog Siddique
+160 Rituparno Ghosh
+161 Pankaj Kapur
+162 Rohit Jugraj
+163 Kaushik Ghatak
+164 Rajiv Chilaka
+165 Vishal Pandya
+166 Rajkumar Santoshi
+167 Feroz Abbas Khan
+168 Priyadarshan
+169 Ashima Chibber
+170 Shaad Ali
+171 Sankalp Reddy
+172 Gauri Shinde
+173 Manoj Jha
+174 Satish Kaushik
+175 Behzad Khambata
+176 Jag Mundhra
+177 Sonam Nair
+178 Vinil Mathew
+179 Indrajit Nattoji
+180 Saket Chaudhary
+181 Nishikant Kamat
+182 Reema Kagti
+183 Abhishek Dogra
+184 James Erskine
+185 Mohan Singh Rathor
+186 Krishna D.K.
+187 Ahmed Khan
+188 Kaizad Gustad
+189 Kannan Iyer
+190 Subhash Kapoor
+191 Sanjay Leela Bhansali
+192 Karan Malhotra
+193 Kabir Sadanand
+194 S.S. Rajamouli
+195 Samir Karnik
+196 Deva Katta
+197 Siddharth Anand Kumar
+198 Sudip Bandyopadhyay
+199 Prabhu Deva
+200 Ajit Pal Mangat
+201 Aniruddha Roy Chowdhury
+202 Samir Soni
+203 Ashutosh Gowariker
+204 Sabir Khan
+205 Pooja Bhatt
+206 Sameer Sharma
+207 Sangeeth Sivan
+208 Tushar Hiranandani
+209 Anil Sharma
+210 Deb Medhekar
+211 Fuwad Khan
+212 K.S. Adiyaman
+213 Gauravv K. Chawla
+214 Kedar Shinde
+215 Sohail Khan
+216 Anand Tiwari
+217 Ayush Raina
+218 Apoorva Lakhia
+219 Vishal Mahadkar
+220 Abhinay Deo
+221 Jeethu Joseph
+222 Rahi Anil Barve
+223 Madhureeta Anand
+224 Abhishek Varman
+225 Anant Mahadevan
+226 Navaniat Singh
+227 Maneesh Sharma
+228 Mohit Suri
+229 Mrityunjay Devvrat
+230 Goldie Behl
+231 Ganesh Acharya
+232 Kapil Sharma
+233 Atul Sabharwal
+234 Sajid Nadiadwala
+235 Bhushan Patel
+236 Narendra Modi
+237 Chandra Prakash Dwivedi
+238 Sudhir Mishra
+239 Atul Manjrekar
+240 Amol Palekar
+241 Farah Khan
+242 Mahendra Singh Dhoni
+243 Jugal Hansraj
+244 Kireet Khurana
+245 Prakash Jha
+246 Vikas Bahl
+247 Rohit Dhawan
+248 Sanjay Gupta
+249 Amit Rai
+250 Sandesh Kohli
+251 Dharmendra Suresh Desai
+252 Amar Kaushik
+253 Siddharth Malhotra
+254 Sanjay Dutt
+255 Akarsh Khurana
+256 Kookie Gulati
+257 Aditya Chopra
+258 Ashish Aryan
+259 Akshay Anand
+260 Anubhav Sinha
+261 Madhur Bhandarkar
+262 Arjun Mukherjee
+263 Ashwin Saravanan
+264 Sajid
+265 Sajid Khan
+266 Samir Tewari
+267 Sanjay Gadhvi
+268 Amit Saxena
+269 Pankuj Parashar
+270 Ali Abbas Zafar
+271 Vipul Shah
+272 Sooraj R. Barjatya
+273 Shonali Bose
+274 Vivek Agarwal
+275 Manmohan Singh
+276 Homi Adajania
+277 Nandita Das
+278 Ashwini Chaudhary
+279 Mikhil Musale
+280 Manish Gupta
+281 Ankush Bhatt
+282 Navdeep Singh
+283 Karan Johar
+284 Sagar Ballary
+285 Anthony Maras
+286 Rohit Manash
+287 Akshat Verma
+288 Neeraj Ghaywan
+289 Subroto Paul
+290 R. Balki
+291 Raja Menon
+292 Shailesh Verma
+293 Prem Soni
+294 Vipul Amrutlal Shah
+295 Robbie Grewal
+296 Ajay Bahl
+297 Kunal Deshmukh
+298 Lakhwinder Shabla
+299 Sriram Raghavan
+300 Sachin Karande
+301 Sandeep Reddy Vanga
+302 Imtiaz Ali
+303 Shree Narayan Singh
+304 S Krishna
+305 Manish Tiwary
+306 Divya Khosla Kumar
+307 Pradeep Sarkar
+308 Rohan Sippy
+309 Vidhi Kasliwal
+310 Aanand L. Rai
+311 Shimit Amin
+312 Pushpdeep Bhardwaj
+313 Abhishek Kapoor
+314 Chandrakant Singh
+315 Sanamjit Singh Talwar
+316 Renzil D'Silva
+317 Kushal Ruia
+318 Yash Chopra
+319 Anusha Rizvi
+320 Raja Unnithan
+321 Rajshree Ojha
+322 Bejoy Nambiar
+323 Nikkhil Advani
+324 Ashwani Dhir
+325 Prakash Kovelamudi
+326 Suneel Darshan
+327 Rakesh Roshan
+328 Vikram K. Kumar
+329 Silk Smitha
+330 Vishwaas Paandya
+331 Amit Ravindernath Sharma
+332 Nagesh Kukunoor
+333 Amit V. Masurkar
+334 Abhishek Chaubey
+335 Namrata Singh Gujral
+336 Siddharth Anand
+337 Arif Ali
+338 Mudassar Aziz
+339 Meghna Gulzar
+340 Anu Menon
+341 Abhishek Sharma
+342 Luv Ranjan
+343 Suparn Verma
+344 Kabir Khan
+345 Y.P. Singh
+346 Ken Ghosh
+347 Aziz Mirza
+348 Tinu Verma
+349 Mrighdeep Lamba
+350 Milan Luthria
+351 Pawan Kripalani
+352 Abhinav Kashyap
+353 Ketan Mehta
+354 Bela Sehgal
+355 Shyam Ramsay

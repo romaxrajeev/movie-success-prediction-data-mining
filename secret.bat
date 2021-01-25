@@ -1,0 +1,1 @@
+"D:\Python-3.7.2\python.exe" "D:\MiniProject\Final\secret.py"
