@@ -1,6 +1,6 @@
 # Movie Success Prediction using Data Mining
 
-Semester 6 Project which predicts the performance of a Bollywood movie based on past data, and also with Youtube statistics for trailer videos.  
+Semester 6 Mini Project which predicts the performance of a Bollywood movie based on past data, and also with Youtube statistics for trailer videos.  
 
 ## Installation
 
